@@ -1,0 +1,6 @@
+@ParallelThreadDemo_HostAddress = http://localhost:5157
+
+GET {{ParallelThreadDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
